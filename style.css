@@ -1,0 +1,75 @@
+.center{
+   text-align: center;
+
+}
+.bg{
+    background-image: url(images/timer.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top:140px ;
+    padding-bottom:60px ;
+  width: 500px;
+}
+
+p{
+    display: inline-block;
+}
+button{
+    width: 80px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    border: 1px solid greenyellow;
+}
+button:active{
+    background-color: greenyellow;
+    color: black;
+}
+h4{
+    display: inline-block;
+   
+}
+.back{
+    background-color: black;
+    color: white;
+    width: 65px;
+    border: 1px solid greenyellow;
+
+}
+p{
+    color: white;
+    
+}
+.p1{
+    margin-right: 70px;
+
+    
+}
+.p2{
+    margin-left: 0px;
+}
+.p3{
+    margin-left: 70px;
+}
+.grey{
+    background-color: #5D6D7E;
+    padding: 100px 50px;
+    border-radius: 200px;
+}
+h3{
+    color:greenyellow;
+    
+}
+.margin1{
+    margin-left:10px;
+}
+.margin2{
+    margin-left: 10px;
+}
+.margin3{
+    margin-left: 10px;
+}
+.top{
+margin-top:100px;
+}
